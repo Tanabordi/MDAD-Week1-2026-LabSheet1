@@ -1015,7 +1015,20 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 > 📝 **แบบฝึกหัด:** วาด Widget Tree ของโค้ดนี้ลงในใบงาน
-
+```text
+MyApp
+ └── MaterialApp
+      └── MyHomePage
+           └── Scaffold
+                ├── AppBar
+                │    └── Text
+                ├── Center
+                │    └── Column
+                │         ├── Text
+                │         └── Text
+                └── FloatingActionButton
+                     └── Icon
+```
 ---
 
 ### ขั้นตอนที่ 4: รันแอปพลิเคชันครั้งแรก
