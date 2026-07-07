@@ -1573,12 +1573,22 @@ ElevatedButton.icon(
 flutter run
 ```
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/22abb799-922e-4b0b-b908-653d8b86e830" />
+
+
 **ทดลองส่งข้อความต่อไปนี้:**
 
 1. `สวัสดี ฉันเป็นนักศึกษา Flutter มือใหม่`
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/affa5e98-ba19-4358-b1fe-48695acf8462" />
+
 2. `อธิบาย StatefulWidget ให้เข้าใจง่ายๆ`
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/04760e4f-f209-4fe8-9216-2544070bc472" />
+
 3. `ช่วยเขียน Flutter code แสดงรายการนักศึกษา 5 คน`
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/56488172-b303-4c0d-997f-22c724a6861d" />
+
 4. ลองถามคำถามอื่นๆ ที่คุณสงสัย
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ee6df1c8-9104-423c-a0c8-6e2347262c05" />
 
 ---
 
